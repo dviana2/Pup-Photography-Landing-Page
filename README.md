@@ -1,1 +1,1 @@
-# Pup-Photography-Landing-Page
+# Landing page created using HTML & CSS.
